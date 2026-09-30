@@ -7,6 +7,7 @@
 ---
 
 ## 📌 Overview
+![AbhiLearn Preview](./assets/og-image.png)
 
 **Abhilearn.in** is an academic resource platform built to help college students quickly find and access previous-year question papers and study materials relevant to their university, semester, subject, and academic year.
 
